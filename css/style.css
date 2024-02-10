@@ -49,3 +49,19 @@ h5{
     text-align: center;
     background-color: crimson;
 }
+
+.youtubeContainer {
+ width: 100%;
+ height: 100%;
+ margin: 0 auto;
+}
+.youtubeVideo{
+    display: flex;
+    gap: 10px;
+}
+marquee {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    font-size: 30px;
+}
